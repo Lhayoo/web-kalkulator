@@ -1,0 +1,39 @@
+    * {
+        font-family: sans-serif;
+        color: rgba(85, 85, 85, 0.808);
+    }
+
+    .container {
+        width: 400px;
+        background-color: white;
+        margin: 130px auto;
+    }
+
+    table {
+        width: 100%;
+        border-color: white;
+    }
+
+    td {
+        width: 25%;
+    }
+
+    button {
+        background-color: white;
+        width: 100%;
+        height: 70px;
+        font-size: 24px;
+        border: none;
+    }
+
+    button:hover{
+        font-weight: bold;
+    }
+
+    #input {
+        height: 130px;
+        font-size: 50px;
+        text-align: right;
+        padding: 0 20px 0 0;
+        background-color: #f6f6f6;
+    }
